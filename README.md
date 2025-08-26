@@ -73,7 +73,7 @@ It eliminates manual roll calls by marking attendance **in real-time** and stori
 ---
 
 ## 👨‍💻 Author
-Developed by **Raj Dhol**  
+Developed by **Raj Dhol**  and **Komal Ghevariya**
 Contributions & suggestions are welcome! 🎉  
 
 ---
